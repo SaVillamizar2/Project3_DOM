@@ -1,2 +1,3 @@
 # Project3_DOM
-Project 3 Dinamycs Of Machinary 
+Project 3 Dynamics of Machinery 
+### 
